@@ -159,7 +159,50 @@
 .reactSpinner {
   margin-top: 80px;
   display: flex;
-  justify-content: center;  
+  justify-content: center;
   align-items: center;
   height: 100%;
 }
+
+/* Empty Message Notification
+.emptyMessage {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  width: 300px;
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #;
+  color: ;
+  font-size: 14px;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  animation: fade-in 0.5s ease-in-out;
+}
+
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+  to {
+    opacity: 0;
+    transform: translate(-50%, -20%);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -20%);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+} */

@@ -1,5 +1,5 @@
-import Textbar from "./components/Textbar";
 import TitleProject from "./components/TitleProject";
+import Textbar from "./components/Textbar";
 
 const App = () => {
   return (
