@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Linear-Vision/static/css/main.9276975d.css",
+    "main.js": "/Linear-Vision/static/js/main.1a96a957.js",
+    "static/media/loading-audio.mp3": "/Linear-Vision/static/media/loading-audio.0dae35b838e9660e3197.mp3",
+    "static/media/message.png": "/Linear-Vision/static/media/message.5fa6d0edf608ad3a475c.png",
+    "index.html": "/Linear-Vision/index.html",
+    "main.9276975d.css.map": "/Linear-Vision/static/css/main.9276975d.css.map",
+    "main.1a96a957.js.map": "/Linear-Vision/static/js/main.1a96a957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9276975d.css",
+    "static/js/main.1a96a957.js"
+  ]
+}
