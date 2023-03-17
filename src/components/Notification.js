@@ -2,7 +2,7 @@ import { Notyf } from "notyf";
 import "notyf/notyf.min.css";
 
 let toast = new Notyf({
-  duration: 1500,
+  duration: 3000,
   position: {
     x: "center",
     y: "top",
