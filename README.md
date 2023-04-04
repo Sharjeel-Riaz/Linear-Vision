@@ -41,4 +41,4 @@ REACT_APP_API_KEY= "Your API key without double quotes (Quotes are just to grab 
 
 ## GitHub Pages
 
-- Visit the production envrionment here 👉🏻 [Linear Vision](https://sharjeel-riaz.github.io/Linear-Vision/)
+- Visit the production envrionment here 👉🏻 [Linear Vision](https://sharjeel-riaz.github.io/Linear-Vision/).
